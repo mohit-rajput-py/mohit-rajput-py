@@ -10,9 +10,10 @@ My goal is to **expand into AI & Machine Learning**, combining web development w
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** Next.js, React, Tailwind CSS, HTML, CSS, JavaScript  
+**Frontend:** Next.js, React, Tailwind CSS, HTML, CSS, ![Static Badge](https://img.shields.io/badge/JavaScript-blue)
+  
 **Backend:** Node.js, Express  
-**Database:** SQLite, MongoDB  
+**Database:** SQLite, MongoDB 
 **Tools & Others:** Git, GitHub, VS Code  
 
 ---
@@ -22,10 +23,6 @@ My goal is to **expand into AI & Machine Learning**, combining web development w
 - GitHub: [@MohitRajput](https://github.com/Mohit-Rajput-py)  
 - LinkedIn: [Mohit Rajput](https://www.linkedin.com/in/mohitrajput/)  
 
----
-
-### 🌟 GitHub Stats
-![Mohit’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohit-Rajput-py&show_icons=true&theme=radical)
 
 ---
 
