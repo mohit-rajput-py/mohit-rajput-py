@@ -10,7 +10,7 @@ My goal is to **expand into AI & Machine Learning**, combining web development w
 ---
 
 ### 🛠 Tech Stack
-**Frontend:** Next.js, React, Tailwind CSS, HTML, CSS, ![Static Badge](https://img.shields.io/badge/JavaScript-blue)
+**Frontend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), React, Tailwind CSS, HTML, CSS, ![Static Badge](https://img.shields.io/badge/JavaScript-blue)
   
 **Backend:** Node.js, Express  
 **Database:** SQLite, MongoDB 
